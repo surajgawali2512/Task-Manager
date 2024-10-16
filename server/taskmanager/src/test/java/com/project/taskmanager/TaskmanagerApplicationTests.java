@@ -1,10 +1,10 @@
-package com.project.To_Do_List_WebApplication;
+package com.project.taskmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ToDoListWebApplicationTests {
+class TaskmanagerApplicationTests {
 
 	@Test
 	void contextLoads() {

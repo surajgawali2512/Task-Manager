@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './UpdateTask.css'
 
 import { Link } from 'react-router-dom';
 function UpdateTask() {

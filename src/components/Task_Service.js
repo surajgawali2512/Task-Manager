@@ -1,9 +1,8 @@
 import { myAxios } from "./Helper";
 
 export const addTaskData = (task) => {
-
- console.log(task)
-  return myAxios.post("/task/addTasks", task).then((response) => response.data);
+  return myAxios
+    .post("/task/addTasks", task)
    
 };
 

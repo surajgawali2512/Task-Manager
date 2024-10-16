@@ -1,13 +1,13 @@
-package com.project.To_Do_List_WebApplication;
+package com.project.taskmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ToDoListWebApplication {
+public class TaskmanagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ToDoListWebApplication.class, args);
+		SpringApplication.run(TaskmanagerApplication.class, args);
 	}
 
 }

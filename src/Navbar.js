@@ -17,7 +17,7 @@ function Navbar() {
                         <a href="/add-task" className="navbar-link">Add Task</a>
                         <a href="/delete-task" className="navbar-link">Delete Task</a>
                         <a href="/update-task" className="navbar-link">Update Task</a>
-                        <a href="/view-tasks" className="navbar-link">View Tasks</a>
+                        <a href="/view-tasks" className="navbar-link">View Task</a>
                         <a href="/login" className="navbar-link">Login</a>
                     </div>
                 </nav>
